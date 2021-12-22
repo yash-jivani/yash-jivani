@@ -19,9 +19,9 @@
 
 
 ### 👨🏻‍💻  Tech Stack : 
-- HTML5 , CSS3 
-- Python , C , MySql
-- Git , GitHub
+- HTML5, CSS3, Bootstrap5 
+- Python, C, MySql
+- Git, GitHub
 - Open Source Projects
 
 <p  align="center">
