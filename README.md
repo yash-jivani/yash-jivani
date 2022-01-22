@@ -19,7 +19,7 @@
 
 
 ### 👨🏻‍💻  Tech Stack : 
-- HTML5, CSS3, Bootstrap5 
+- HTML5, CSS3, JavaScript, Bootstrap5 
 - Python, C, MySql
 - Git, GitHub
 - Open Source Projects
