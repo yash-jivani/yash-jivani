@@ -21,6 +21,7 @@
 ### Tech Stack : 
 - HTML5, CSS3, JavaScript
 - Bootstrap5, Tailwindcss 
+- React
 - Python, C, MySql
 - Git, GitHub
 - Open Source Projects
