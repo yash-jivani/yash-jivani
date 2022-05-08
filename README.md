@@ -22,7 +22,7 @@
 - HTML5, CSS3, JavaScript
 - Bootstrap5, Tailwindcss 
 - React
-- Python, C, MySql
+- Python, C, MySQL
 - Git, GitHub
 - Open Source Projects
 
