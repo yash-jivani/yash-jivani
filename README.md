@@ -19,7 +19,7 @@
 ### 👨‍💻  Tech Stack : 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,sass,react,redux,materialui,nodejs,express,mongodb,mysql,postman,netlify,c,cpp,python,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,sass,react,redux,materialui,nodejs,express,mongodb,mysql,postman,netlify,c,cpp,python,git,linux)](https://github.com/yash-jivani)
 
 
 
