@@ -1,14 +1,14 @@
-<h1 align="center">Hey, I'm Yash Jivani ! </h1>
+<h1 align="center">Hey, I'm Yash Jivani! </h1>
 
 <!-- about text /////////////////////////////////////////////////////// -->
 
 ### 📌 Currently I'm...
 
- - Trying to learn new things and try to keep myself busy.
+ - Trying to learn new things and trying to keep myself busy.
  
- - Interested in web devloapment.
+ - Interested in web development.
 
- - Exploring Open Source field.
+ - Exploring the Open Source field.
  
  - Open for collaboration on every interesting project/stuff.
 
@@ -34,7 +34,7 @@
 
 
   
-<!-- Connect withme /////////////////////////////////////////////////////// -->
+<!-- Connect with me /////////////////////////////////////////////////////// -->
 <br/>
 
 ### 📫 Connect with me:
