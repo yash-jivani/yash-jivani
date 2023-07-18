@@ -22,16 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,sass,react,redux,materialui,nodejs,express,mongodb,mysql,postman,netlify,c,cpp,python,git,linux)](https://github.com/yash-jivani)
 
 
-
-<!-- git analytics /////////////////////////////////////////////////////// -->
-<br/>
-
-<h3>🤖 Git Analytics :</h3>
-<br/>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-jivani&show_icons=true&locale=en" alt="yash-jivani" /></p>
-
+<!-- git analytics 
 
   
 <!-- Connect with me /////////////////////////////////////////////////////// -->
@@ -52,11 +43,6 @@
 <a href="https://twitter.com/yashjivani17" target="blank">
     <img align="center" src="https://img.icons8.com/fluency/452/twitter.png" alt="yash_jivani17 insta profile" width="40" />
 </a>&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/yashjivani17" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/geeks-for-geeks.svg" alt="Yash gfg profile" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/yash-jivani17" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="Yash leetcode profile" height="30" width="40" />
 </a>
 
 </p>
