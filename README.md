@@ -31,7 +31,7 @@
 ### 📫 Connect with me:
 <p align="left">
 
-<a href="https://linkedin.com/in/yash-jivani-0245ab214" target="blank">
+<a href="https://linkedin.com/in/yash-jivani17" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-jivani-0245ab214" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/yash_jivani17" target="blank">
